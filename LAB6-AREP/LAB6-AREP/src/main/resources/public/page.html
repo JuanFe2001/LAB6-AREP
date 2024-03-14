@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Logs</title>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <link href="page.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1>Logs</h1>
+    <form action="/logservicefacade">
+        <label for="msg">Mensaje:</label><br>
+        <input id="msg" name="msg" type="text" placeholder="Nuevo Registro"><br><br>
+        <input onclick="loadGetMsg()" type="button" value="Almacenar">
+    </form>
+    <div>
+        <table id="registros">
+            <thead>
+                <tr>
+                    <th colspan="2">Logs Almacenados</th>
+                </tr>
+                <tr>
+                    <th>Fecha</th>
+                    <th align="right">Logs</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <script src="page.js"></script>
+</body>
+</html>
