@@ -53,7 +53,9 @@ Para poder ejecutar o correr el proyecto se necesitan unos requisitos minimos lo
 
       - Deberiamos ver la siguiente pagina si seguimos los pasos correctamente
 
-        ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/352b4e6d-28fe-4795-aa9e-225a9e1aa59c)
+    ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/a6a39a4f-6fe4-4501-9284-f45756cb3993)
+
+
 
   ##Pruebas
   ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/447b2a5f-b849-49bf-abbe-4088ec81bf47)
