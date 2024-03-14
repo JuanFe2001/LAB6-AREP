@@ -49,9 +49,8 @@ Para poder ejecutar o correr el proyecto se necesitan unos requisitos minimos lo
 
      - Una vez hecho esto colocamos en el Browser de nuestra preferencia esta url para probar el funcionamiento de nuestra pagina
 
-      ```
         http://localhost:8087/page.html
-      ```
+
       - Deberiamos ver la siguiente pagina si seguimos los pasos correctamente
 
         ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/352b4e6d-28fe-4795-aa9e-225a9e1aa59c)
