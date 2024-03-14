@@ -57,7 +57,7 @@ Para poder ejecutar o correr el proyecto se necesitan unos requisitos minimos lo
 
 
 
-  ## Pruebas
+  ## Pruebas (Localmente)
   ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/447b2a5f-b849-49bf-abbe-4088ec81bf47)
 
   ## AWS
