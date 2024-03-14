@@ -60,6 +60,15 @@ Para poder ejecutar o correr el proyecto se necesitan unos requisitos minimos lo
   ## Pruebas
   ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/447b2a5f-b849-49bf-abbe-4088ec81bf47)
 
+  ## AWS
+  ![image](https://github.com/JuanFe2001/LAB6-AREP/assets/123691538/1f3d0d55-48f1-48ea-9934-560e7c15cbdf)
+  
+  - Para ver como funciona con la instacia de EC2 en aws mira el siguiente video
+    
+    [![LAB6 AWS](https://img.youtube.com/vi/OgTdbBOkO9U/maxresdefault.jpg)](https://youtu.be/OgTdbBOkO9U)
+
+  
+
 
 
        
